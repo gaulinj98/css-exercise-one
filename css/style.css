@@ -29,17 +29,19 @@ h1 {
 
 h3 {
   font-size: 1.3em;
+  color: #ffffff;
 }
 
 /*THIS CONTAINS H1 ELEMENTS WITH TEXT*/
 .element {
-  background-color: green;
+  background-color: #0000ff;
   height: 100px;
   margin: 10px 0;
   width: 100%;
+
 }
 
 /*CHANGE BACKGROUND COLOR OF THIS CLASS ONLY*/
 .my-bg {
-  background-color: #000000;
+  background-color: #0000ff;
 }
