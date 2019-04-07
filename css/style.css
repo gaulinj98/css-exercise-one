@@ -4,7 +4,7 @@ body {
 
 /*NAVIGATION*/
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -43,5 +43,5 @@ h3 {
 
 /*CHANGE BACKGROUND COLOR OF THIS CLASS ONLY*/
 .my-bg {
-  background-color: #0000ff;
+  background-color: #000000;
 }
